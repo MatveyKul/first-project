@@ -1,0 +1,45 @@
+/* Общие стили */
+body {
+  margin: 0;
+  padding: 0;
+  color: #333;
+  font-family: Arial, sans-serif;
+  background-color: #f0f4f8;
+}
+
+/* Шапка */
+header {
+  padding: 20px;
+  color: white;
+  text-align: center;
+  background-color: #4a90e2;
+}
+
+/* Основной контент */
+main {
+  padding: 20px;
+  text-align: center;
+}
+
+/* Кнопка */
+button {
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  color: white;
+  font-size: 16px;
+  background-color: #4a90e2;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #357ab8;
+}
+
+/* Подвал */
+footer {
+  margin-top: 30px;
+  padding: 10px;
+  text-align: center;
+  background-color: #e1e1e1;
+}
